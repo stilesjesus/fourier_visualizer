@@ -3,6 +3,20 @@
 An educational, high-performance 3D and 2D visualization tool that demonstrates the mathematical beauty of Fourier transforms through interactive real-time graphics and audio synthesis.
 
 
+## 🚀 Try It Now!
+
+**[🌐 Live Demo - Try the Fourier Transform Visualizer](https://stilesjesus.github.io/fourier_visualizer/)**
+
+Experience the interactive visualization directly in your browser! No installation required - just click and start exploring the mathematical beauty of Fourier transforms.
+
+✨ **Quick Start:**
+1. Click the live demo link above
+2. Choose between 2D or 3D visualization modes
+3. Adjust wave parameters with the sliders
+4. Hit play and watch mathematics come to life!
+
+---
+
 ## 🌟 Features
 
 ### Educational Content
@@ -42,8 +56,8 @@ An educational, high-performance 3D and 2D visualization tool that demonstrates 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/fourier-transform-visualizer.git
-   cd fourier-transform-visualizer
+   git clone https://github.com/stilesjesus/fourier_visualizer.git
+   cd fourier_visualizer
    ```
 
 2. **Install dependencies**
