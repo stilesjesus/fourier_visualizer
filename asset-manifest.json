@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fourier_visualizer/static/css/main.2e25c422.css",
+    "main.js": "/fourier_visualizer/static/js/main.51e5ea04.js",
+    "static/js/453.4559781a.chunk.js": "/fourier_visualizer/static/js/453.4559781a.chunk.js",
+    "index.html": "/fourier_visualizer/index.html",
+    "main.2e25c422.css.map": "/fourier_visualizer/static/css/main.2e25c422.css.map",
+    "main.51e5ea04.js.map": "/fourier_visualizer/static/js/main.51e5ea04.js.map",
+    "453.4559781a.chunk.js.map": "/fourier_visualizer/static/js/453.4559781a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e25c422.css",
+    "static/js/main.51e5ea04.js"
+  ]
+}
