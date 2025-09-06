@@ -212,8 +212,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions, suggestions, or issues:
 - Open an issue on GitHub
-- Contact: [your-email@example.com]
-- Documentation: [Link to detailed docs if available]
+- Contact: stiles.jesus.engineering@gmail.com
 
 ---
 
